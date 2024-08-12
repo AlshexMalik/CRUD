@@ -9,3 +9,10 @@
 
 
 <h1>A SIMPLE CRUD BY LARAVEL</h1>
+<h3>HOW TO USE </h3>
+-dawnloud crudlivewire.rar
+-then extract
+-open by vs code 
+-new terminal / type / php artisan serve
+-when get you link open it / warning you mast had php and xammp 
+
